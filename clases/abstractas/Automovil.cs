@@ -29,6 +29,10 @@ namespace Clase4 // Note: actual namespace depends on the project name.
             }
 
         }
+        public string getautomovil()
+        {
+            return  this.marca + " " + this.moodelo + " " + this.velocidad_max + " " + this.velocidad;
+        }
     }
 
     

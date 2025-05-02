@@ -1,0 +1,15 @@
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\bin\Debug\net8.0\clase4.exe
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\bin\Debug\net8.0\clase4.deps.json
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\bin\Debug\net8.0\clase4.runtimeconfig.json
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\bin\Debug\net8.0\clase4.dll
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\bin\Debug\net8.0\clase4.pdb
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\obj\Debug\net8.0\clase4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\obj\Debug\net8.0\clase4.AssemblyInfoInputs.cache
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\obj\Debug\net8.0\clase4.AssemblyInfo.cs
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\obj\Debug\net8.0\clase4.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\obj\Debug\net8.0\clase4.sourcelink.json
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\obj\Debug\net8.0\clase4.dll
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\obj\Debug\net8.0\refint\clase4.dll
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\obj\Debug\net8.0\clase4.pdb
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\obj\Debug\net8.0\clase4.genruntimeconfig.cache
+C:\Users\rodrigo.diaz\Desktop\ISTEA\POO\clase4\obj\Debug\net8.0\ref\clase4.dll
